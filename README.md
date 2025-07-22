@@ -1,6 +1,6 @@
 # Laravel 12 Library Management System (Complete)
 
-## ✨ Features
+##  Features
 - Laravel 12 + Filament Ready
 - SQLite Database for Easy Setup
 - Book CRUD (Create, Read, Update, Delete)
@@ -9,7 +9,7 @@
 - Seeder and Factory for demo books
 - Protected routes with middleware
 
-## ✅ How to Install
+##  How to Install
 
 ```bash
 composer install
@@ -22,5 +22,5 @@ php artisan serve
 
 Then open `http://localhost:8000`
 
-## 🔐 Login
+##  Login
 Register a new user at `/register` and login to access the dashboard.
